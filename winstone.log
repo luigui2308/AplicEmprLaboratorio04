@@ -1,0 +1,5 @@
+[Winstone 2012/09/24 18:32:45] - WARNING: Tools.jar was not found - jsp compilation will cause errors. Maybe you should set JAVA_HOME using --javaHome
+[webapp 2012/09/24 18:32:45] - Initializing Spring root WebApplicationContext
+[Winstone 2012/09/24 18:32:46] - HTTP Listener started: port=8089
+[Winstone 2012/09/24 18:32:46] - AJP13 Listener started: port=8009
+[Winstone 2012/09/24 18:32:46] - Winstone Servlet Engine v0.9.10 running: controlPort=disabled
